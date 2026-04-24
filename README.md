@@ -2,10 +2,7 @@
 
 A full-stack serverless notes application built with React and AWS.
 
-## Features
-- User signup/login via Cognito
-- Create, read, update, delete notes
-- Notes are private per user
+A personal notes app where you can securely create, edit, and delete your own private notes.
 
 ## Architecture
 
