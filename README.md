@@ -7,6 +7,7 @@ A personal notes app where you can securely create, edit, and delete your own pr
 ## Architecture
 
 User → Cognito (auth) → API Gateway → Lambda → DynamoDB
+
 Frontend hosted on S3 + CloudFront
 
 ## AWS Services Used
